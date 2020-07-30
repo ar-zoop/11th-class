@@ -1,2 +1,2 @@
 # 11th-class
-Python in highschol
+CS in highschool
